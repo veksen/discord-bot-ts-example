@@ -1,0 +1,18 @@
+{
+  "name": "discord-bot-ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "ts-node bot.ts"
+  },
+  "author": "Jean-Philippe Sirois",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.1.1",
+    "dotenv": "^16.0.1",
+    "ts-node": "^10.9.1",
+    "typescript": "^4.7.4"
+  }
+}
